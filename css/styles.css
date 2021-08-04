@@ -88,3 +88,11 @@ html {
 hr {
     color: #ccc;
 }
+.attribution {
+    text-align: center;
+    margin-top: 80px;
+    color: white;
+}
+.attribution a {
+    color: black;
+}
